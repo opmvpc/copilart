@@ -24,9 +24,7 @@ export default {
     return {
       pages: [
         { name: "Home", path: "/" },
-        { name: "Profile", path: "/about" },
-        { name: "Messages", path: "/" },
-        { name: "Settings", path: "/" },
+        { name: "Words", path: "/words" },
       ],
     };
   },
